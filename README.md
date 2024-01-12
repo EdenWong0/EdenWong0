@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eden Wong</h1>
-<h3 align="center">A passionate frontend developer currently located in North York, Toronto</h3>
+<h3 align="center" styles="uppercase">A passionate frontend developer currently located in North York, Toronto</h3>
 
 - 🌱 I’m currently learning **Next.js, Redux**
 
