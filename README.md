@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eden Wong</h1>
 <h3 align="center">A Passionate Frontend & Web Developer currently located in North York, Toronto</h3>
 
-- 🌱 I’m currently learning **Angular, Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://edenphw.vercel.app/](https://edenphw.vercel.app/)
 
